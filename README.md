@@ -4,6 +4,8 @@
 
 ![Gyovana GitHub stats](https://github-readme-stats.vercel.app/api?username=GyovanaLuni&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyovanaLuni&layout=compact)](https://github.com/GyovanaLuni/github-readme-stats)
+
 ## Conhecimentos
 
 <div style ="display: inline_block"><br/>
